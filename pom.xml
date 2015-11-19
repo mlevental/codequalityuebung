@@ -57,6 +57,7 @@
 					<formats>
 						<format>xml</format>
 					</formats>
+					<outputDirectory>target/build</outputDirectory>
 				</configuration>
 			</plugin>
 		</plugins>
