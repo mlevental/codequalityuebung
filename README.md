@@ -7,7 +7,7 @@
 + checkstyle (mvn checkstyle:checkstyle)
 + findbugs (mvn findbugs:findbugs => xml, mvn findbugs:gui => swing GUI)
 
-mvn clean install GUI => all reports in html
+mvn clean install site => all reports in html
 
 ------------------------------------
 
