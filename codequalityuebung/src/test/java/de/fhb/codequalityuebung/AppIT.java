@@ -26,7 +26,7 @@ public class AppIT extends TestCase {
 	 * Rigourous Test :-)
 	 */
 	public void test1() {
-		assertTrue(true); 
+		assertTrue(true);
 	}
 
 }
