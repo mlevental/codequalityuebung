@@ -14,7 +14,7 @@ public class AppIT extends TestCase {
 	public AppIT(String testName) {
 		super(testName);
 	}
- 
+
 	/**
 	 * @return the suite of tests being tested
 	 */
@@ -26,7 +26,7 @@ public class AppIT extends TestCase {
 	 * Rigourous Test :-)
 	 */
 	public void test1() {
-		assertTrue(true); 
+		assertTrue(true);
 	}
 
 }
