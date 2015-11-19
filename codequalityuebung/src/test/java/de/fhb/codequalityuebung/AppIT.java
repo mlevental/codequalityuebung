@@ -14,7 +14,7 @@ public class AppIT extends TestCase {
 	public AppIT(String testName) {
 		super(testName);
 	}
-
+ 
 	/**
 	 * @return the suite of tests being tested
 	 */
