@@ -1,6 +1,6 @@
 # codequalityuebung 
 
-[![Build Status](https://travis-ci.org/mlevental/codequalityuebung.svg?branch=master)](https://travis-ci.org/mlevental/codequalityuebung)
+####Travis CI: [![Build Status](https://travis-ci.org/mlevental/codequalityuebung.svg?branch=master)](https://travis-ci.org/mlevental/codequalityuebung)
 
 ## Plugins:
 + surefire (mvn clean test)
