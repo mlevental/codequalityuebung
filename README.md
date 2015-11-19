@@ -1,8 +1,8 @@
 # codequalityuebung 
 
-####Travis CI: [![Build Status](https://travis-ci.org/mlevental/codequalityuebung.svg?branch=master)](https://travis-ci.org/mlevental/codequalityuebung)
-
-####Coveralls: <a href='https://coveralls.io/github/mlevental/codequalityuebung?branch=master'><img src='https://coveralls.io/repos/mlevental/codequalityuebung/badge.svg?branch=master&service=github' alt='Coverage Status' /></a>
+Travis CI | Coveralls
+--------- | ----------
+[![Build Status](https://travis-ci.org/mlevental/codequalityuebung.svg?branch=master)](https://travis-ci.org/mlevental/codequalityuebung) | <a href='https://coveralls.io/github/mlevental/codequalityuebung?branch=master'><img src='https://coveralls.io/repos/mlevental/codequalityuebung/badge.svg?branch=master&service=github' alt='Coverage Status' /></a>
 
 ## Plugins:
 + surefire (mvn clean test)
