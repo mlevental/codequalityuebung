@@ -9,4 +9,6 @@
 
 mvn clean install GUI => all reports in html
 
-## further information (e.g. integration of the plugins into the pom.xml and goal names) under http://www.mojohaus.org or gleclaire.github.io/findbugs-maven-plugin/index.html
+------------------------------------
+
+further information (e.g. integration of the plugins into the pom.xml and goal names) under http://www.mojohaus.org or gleclaire.github.io/findbugs-maven-plugin/index.html
