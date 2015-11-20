@@ -36,4 +36,9 @@ public class AppTest extends TestCase {
 		assertTrue(true);
 	}
 
+	@SuppressWarnings("static-access")
+	public void testMainNoException() {
+		new App().main(null);
+	}
+
 }

@@ -1,2 +1,2 @@
 language: java
-after_success: mvn clean verify cobertura:cobertura-integration-test coveralls:report -DrepoToken=$COVERALLS_REPO_TOKEN
+after_success: mvn clean verify cobertura:cobertura coveralls:report -DrepoToken=$COVERALLS_REPO_TOKEN
