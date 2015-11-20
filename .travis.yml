@@ -1,2 +1,2 @@
 language: java
-after_success: mvn clean verify cobertura:cobertura-integration-test
+script: mvn clean verify cobertura:cobertura-integration-test
